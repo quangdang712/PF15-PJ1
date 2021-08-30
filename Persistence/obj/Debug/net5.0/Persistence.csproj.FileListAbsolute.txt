@@ -1,0 +1,12 @@
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/quangdang/Desktop/VTC Academy/LoginDemo/Persistence/obj/Debug/net5.0/Persistence.pdb
